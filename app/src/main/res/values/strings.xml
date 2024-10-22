@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadingIndicator</string>
+    <string name="show">SHOW</string>
+    <string name="hide">HIDE</string>
+</resources>
