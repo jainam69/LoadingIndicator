@@ -22,4 +22,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "LoadingIndicator"
 include ':app'
-include ':loadingIndicator'
+//include ':loadingIndicator'
