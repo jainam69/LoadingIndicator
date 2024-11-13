@@ -18,7 +18,7 @@ LoadingIndicatorView is a collection of nice loading animations for Android.
 Add dependencies in build.gradle.
 ```groovy
     dependencies {
-       implement 'com.github.jainam69:LoadingIndicator:1.0.0'
+       implementation 'com.github.jainam69:LoadingIndicator:1.0.0'
     }
 ```
 
